@@ -14,7 +14,7 @@
     opacity: 0.6;
     position: absolute;
     bottom: 0;
-    left: 120px;
+    left: -120px;
     font-size: 18px;
     font-family: 'La Belle Aurore';
 }
@@ -25,7 +25,7 @@
 
 .container{
     width: calc(100% - 60px);  // Subtract sidebar width
-    margin-left: -600px;  // Push content right to make room for sidebar
+    margin-left: -800px;  // Push content right to make room for sidebar
     will-change: contents;
     height: 90%;
     min-height: 566px;
