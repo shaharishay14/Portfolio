@@ -1,7 +1,7 @@
 .home-page {
     .text-zone {
         position: absolute;
-        left: 10%;
+        left: 10%;  // This is measured from the container's left edge
         top: 50%;
         transform: translateY(-50%);
         width: 40%;
