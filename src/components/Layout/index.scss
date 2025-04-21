@@ -39,6 +39,11 @@
     animation-delay: 1s;
 }
 
+.container.home-page {
+    // Specific adjustments for home page container
+    padding-left: 80px; // Adjust this value as needed
+}
+
 .about-page,
 .contact-page{
     .text-zone{
