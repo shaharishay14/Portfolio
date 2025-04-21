@@ -25,7 +25,7 @@
 
 .container{
     width: calc(100% - 60px);  // Subtract sidebar width
-    margin-left: 60px;  // Push content right to make room for sidebar
+    margin-left: 30px;  // Push content right to make room for sidebar
     will-change: contents;
     height: 90%;
     min-height: 566px;
