@@ -32,17 +32,13 @@
     position: absolute;
     top: 5%;
     opacity: 0;
-    margin: 0 auto;
+   // margin: 0 auto;
     z-index: 1;
     transform-style: preserve-3d;
     animation: fadeIn 1s forwards;
     animation-delay: 1s;
 }
 
-.container.home-page {
-    // Specific adjustments for home page container
-    padding-left: 80px; // Adjust this value as needed
-}
 
 .about-page,
 .contact-page{
